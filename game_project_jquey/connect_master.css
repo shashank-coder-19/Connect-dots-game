@@ -1,0 +1,10 @@
+.board button{
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+  margin:1px;
+  border-radius: 50%;
+  /* here 50% means that radius along x axis will be 50% of length along x axis and same thing along y axis */
+  border: 4px solid black;
+
+}
